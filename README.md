@@ -24,7 +24,7 @@ secção [Colaboração](#colab).
 
 ## Conteúdos
 
-1. [Revisão de C# e UML](problemas/01.md)
+1. [Revisão de LP1](problemas/01.md)
 2. _Em breve_
 
 <a name="colab" />
