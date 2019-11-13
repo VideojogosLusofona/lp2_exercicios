@@ -25,7 +25,7 @@ secção [Colaboração](#colab).
 ## Conteúdos
 
 1. [Revisão de LP1](problemas/01.md)
-2. _Em breve_
+2. [Matéria de LP2](problemas/02.md)
 
 <a name="colab" />
 
