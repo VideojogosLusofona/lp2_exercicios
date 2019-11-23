@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ReadInput : MonoBehaviour
+public static class ReadInput
 {
-    public Vector2 GetVector2()
+    public static Vector2 GetMovement()
     {
         return new Vector2(Input.GetAxis("Vertical"), Input.GetAxis("Horizontal"));
     }
