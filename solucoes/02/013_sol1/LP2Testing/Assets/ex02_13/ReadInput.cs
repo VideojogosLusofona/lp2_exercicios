@@ -6,6 +6,8 @@ public static class ReadInput
 {
     public static Vector2 GetMovement()
     {
-        return new Vector2(Input.GetAxis("Vertical"), Input.GetAxis("Horizontal"));
+        return new Vector2(
+            Input.GetAxis("Vertical"),
+            Input.GetAxis("Horizontal"));
     }
 }
